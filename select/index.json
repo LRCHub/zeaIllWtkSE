@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "Symbol II : Air",
+  "base_artist": "Ave Mujica",
+  "createdAt": "2025-12-18T08:58:44.065477Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Symbol II : Air",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/01_Symbol_II___Air_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Symbol II : Air",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/02_Symbol_II___Air_Ave_Mujica.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Symbol II - 🜁",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/03_Symbol_II_-_🜁_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Symbol II",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/04_Symbol_II_Ave_Mujica.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Symbol II : 🜁",
+      "artist": "Ave Mujica",
+      "has_synced": true,
+      "path": "select/05_Symbol_II___🜁_Ave_Mujica.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Symbol III : ▽",
+      "artist": "Ave Mujica",
+      "has_synced": false,
+      "path": "select/pl_01_Symbol_III___▽_Ave_Mujica.txt"
+    }
+  ]
+}
